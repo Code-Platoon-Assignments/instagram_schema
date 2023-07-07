@@ -1,2 +1,0 @@
--- create your tables here
--- dont forget "drop table if exists" statements to save yourself some time when you're developing
