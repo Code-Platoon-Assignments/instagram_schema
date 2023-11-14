@@ -8,3 +8,4 @@ Implement the schema following the model of [cars database](https://github.com/c
 
 When you have your postgres container running with your database, write a few queries against it to make sure everything is working.
 
+Ignore `setup.sh` and `Dockerfile`. 
